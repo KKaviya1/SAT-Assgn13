@@ -1,0 +1,8 @@
+F:\SAT 22-07-23\Task 2\Task 2\bin\Debug\Task 2.exe.config
+F:\SAT 22-07-23\Task 2\Task 2\bin\Debug\Task 2.exe
+F:\SAT 22-07-23\Task 2\Task 2\bin\Debug\Task 2.pdb
+F:\SAT 22-07-23\Task 2\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
+F:\SAT 22-07-23\Task 2\Task 2\obj\Debug\Task 2.csproj.SuggestedBindingRedirects.cache
+F:\SAT 22-07-23\Task 2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+F:\SAT 22-07-23\Task 2\Task 2\obj\Debug\Task 2.exe
+F:\SAT 22-07-23\Task 2\Task 2\obj\Debug\Task 2.pdb

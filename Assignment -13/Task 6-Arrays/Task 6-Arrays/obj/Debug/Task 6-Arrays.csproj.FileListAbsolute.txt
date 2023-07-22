@@ -1,0 +1,8 @@
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\bin\Debug\Task 6-Arrays.exe.config
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\bin\Debug\Task 6-Arrays.exe
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\bin\Debug\Task 6-Arrays.pdb
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\obj\Debug\Task 6-Arrays.csproj.AssemblyReference.cache
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\obj\Debug\Task 6-Arrays.csproj.SuggestedBindingRedirects.cache
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\obj\Debug\Task 6-Arrays.csproj.CoreCompileInputs.cache
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\obj\Debug\Task 6-Arrays.exe
+F:\SAT 22-07-23\Task 6-Arrays\Task 6-Arrays\obj\Debug\Task 6-Arrays.pdb

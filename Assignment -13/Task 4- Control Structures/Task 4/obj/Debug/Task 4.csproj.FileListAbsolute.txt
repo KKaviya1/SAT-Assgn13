@@ -1,0 +1,8 @@
+F:\SAT 22-07-23\Task 4\Task 4\bin\Debug\Task 4.exe.config
+F:\SAT 22-07-23\Task 4\Task 4\bin\Debug\Task 4.exe
+F:\SAT 22-07-23\Task 4\Task 4\bin\Debug\Task 4.pdb
+F:\SAT 22-07-23\Task 4\Task 4\obj\Debug\Task 4.csproj.AssemblyReference.cache
+F:\SAT 22-07-23\Task 4\Task 4\obj\Debug\Task 4.csproj.SuggestedBindingRedirects.cache
+F:\SAT 22-07-23\Task 4\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+F:\SAT 22-07-23\Task 4\Task 4\obj\Debug\Task 4.exe
+F:\SAT 22-07-23\Task 4\Task 4\obj\Debug\Task 4.pdb

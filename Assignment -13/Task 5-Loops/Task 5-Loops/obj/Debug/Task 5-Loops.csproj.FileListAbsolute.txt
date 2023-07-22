@@ -1,0 +1,8 @@
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\bin\Debug\Task 5-Loops.exe.config
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\bin\Debug\Task 5-Loops.exe
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\bin\Debug\Task 5-Loops.pdb
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\obj\Debug\Task 5-Loops.csproj.AssemblyReference.cache
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\obj\Debug\Task 5-Loops.csproj.SuggestedBindingRedirects.cache
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\obj\Debug\Task 5-Loops.csproj.CoreCompileInputs.cache
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\obj\Debug\Task 5-Loops.exe
+F:\SAT 22-07-23\Task 5-Loops\Task 5-Loops\obj\Debug\Task 5-Loops.pdb

@@ -1,0 +1,8 @@
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\bin\Debug\Task7-Methods.exe.config
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\bin\Debug\Task7-Methods.exe
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\bin\Debug\Task7-Methods.pdb
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\obj\Debug\Task7-Methods.csproj.AssemblyReference.cache
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\obj\Debug\Task7-Methods.csproj.SuggestedBindingRedirects.cache
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\obj\Debug\Task7-Methods.csproj.CoreCompileInputs.cache
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\obj\Debug\Task7-Methods.exe
+F:\SAT 22-07-23\Task7-Methods\Task7-Methods\obj\Debug\Task7-Methods.pdb
